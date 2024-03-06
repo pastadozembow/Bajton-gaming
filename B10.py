@@ -12,7 +12,7 @@ for line in sys.stdin.readlines():
     wyplaty.append(int(h))
     minuty.append(int(m))
     '''
-    i = 10 kod by wojtek gruntkowski
+    i = 10 kod by pola brejt, jan krasinski, wojciech gruntkowski i jeremi ogrodowczyk
     '''
 minuty = sum(minuty)
 wyplata = sum(wyplaty) + minuty//60
