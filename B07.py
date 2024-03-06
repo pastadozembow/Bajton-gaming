@@ -13,7 +13,7 @@ def generuj_inicjaly(imie_nazwisko):
 
     return inicjaly
 '''
-i = 10 kod by pola brejt
+i = 10 kod by pola brejt, jan krasinski, wojciech gruntkowski i jeremi ogrodowczyk
 '''
 n = int(input())
 
