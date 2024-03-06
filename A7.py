@@ -1,7 +1,7 @@
 import math
 a, b, c = map(float, input().split())
 '''
-i = 10 kod by jan krasinski
+i = 10 kod by jan krasinski, pola brejt, wojciech gruntkowski i jeremi ogrodowczyk
 '''
 if(a + b > c):
 
