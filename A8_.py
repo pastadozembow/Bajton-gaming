@@ -3,7 +3,7 @@ suma = 0
 
 n = int(input())
 '''
-i = 10 kod by jan krasinski
+i = 10 kod by jan krasinski, pola brejt, wojciech gruntkowski i jeremi ogrodowczyk
 '''
 while licznik < n:
     liczba = int(input())
