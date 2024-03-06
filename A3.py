@@ -4,5 +4,5 @@ if(a > b):
 else:
     print(b)
     '''
-i = 10 kod by jan krasinski
+i = 10 kod by jan krasinski, pola brejt, wojciech gruntkowski i jeremi ogrodowczyk
 '''
