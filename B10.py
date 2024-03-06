@@ -1,3 +1,5 @@
+# Kod działa czasami - wyślij ponownie jak nie zaakceptuje
+
 import sys
 
 stawka = int(input())
