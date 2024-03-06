@@ -3,7 +3,7 @@ su = 0
 sd = 0
 n = int(input())
 '''
-i = 10 kod by jan krasinski
+i = 10 kod by jan krasinski, pola brejt, wojciech gruntkowski i jeremi ogrodowczyk
 '''
 for i in range(n):
     liczba = int(input())
