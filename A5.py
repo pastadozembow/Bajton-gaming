@@ -8,7 +8,7 @@ if(a == 0):
 else:
     wynik = b/a
     '''
-i = 10 kod by jan krasinski
+i = 10 kod by jan krasinski, pola brejt, wojciech gruntkowski i jeremi ogrodowczyk
 '''
     wynik = wynik * -1
     print(f"{wynik:0.2f}")
