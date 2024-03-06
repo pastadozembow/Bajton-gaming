@@ -8,7 +8,7 @@ for i in range(x):
     else:
         m += 1
 '''
-i = 10 kod by pola brejt
+i = 10 kod by pola brejt, jan krasinski, wojciech gruntkowski i jeremi ogrodowczyk
 '''
 print("Liczb parzystych jest:", k)
 print("Liczb nieparzystych jest:", m)
