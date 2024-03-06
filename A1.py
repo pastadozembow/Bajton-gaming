@@ -6,7 +6,7 @@ b = ds - ad
 b = math.sqrt(b)
 pole = a*b
 '''
-i = 10 kod by jan krasinski
+i = 10 kod by jan krasinski, pola brejt, wojciech gruntkowski i jeremi ogrodowczyk
 '''
 obwod = a + b
 obwod = 2*obwod
